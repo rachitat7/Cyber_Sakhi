@@ -19,5 +19,4 @@ CyberSakhi uses rule-based detection. Its results are indicators, not proof that
 
 📂 Repository
 https://github.com/rachitat7/Cyber_Sakhi
-📂 Repository
-https://github.com/rachitat7/Cyber_Sakhi
+
