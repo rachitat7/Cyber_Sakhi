@@ -17,6 +17,5 @@ To promote cybersecurity awareness by helping users recognize potential threats,
 ⚠️ Disclaimer
 CyberSakhi uses rule-based detection. Its results are indicators, not proof that a message or URL is safe or malicious.
 
-📂 Repository
-https://github.com/rachitat7/Cyber_Sakhi
+
 
