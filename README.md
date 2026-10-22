@@ -1,4 +1,4 @@
-🛡️ CyberSakhi — Cyber Safety Companion
+CyberSakhi — Cyber Safety Companion
 CyberSakhi is a Python-based cybersecurity project that helps users identify potential phishing attempts, recognize suspicious messages, and respond to cyber incidents.
 
 ✨ Key Features
@@ -10,12 +10,14 @@ Emergency Mode: Provides safety guidance for suspicious links, compromised crede
 🛠️ Tech Stack
 Python
 Streamlit
-HTML, CSS, and JavaScript
+HTML, CSS
 🎯 Objective
 To promote cybersecurity awareness by helping users recognize potential threats, understand risks, and take safer actions online.
 
 ⚠️ Disclaimer
 CyberSakhi uses rule-based detection. Its results are indicators, not proof that a message or URL is safe or malicious.
 
+📂 Repository
+https://github.com/rachitat7/Cyber_Sakhi
 📂 Repository
 https://github.com/rachitat7/Cyber_Sakhi
